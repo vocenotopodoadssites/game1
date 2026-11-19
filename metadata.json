@@ -1,0 +1,6 @@
+{
+  "name": "ALIENFALL",
+  "description": "Jogo 3D isométrico de ação e sobrevivência contra hordas alienígenas com evolução por cartas, exploração de mapa em setores, batalhas contra chefes e progressão permanente.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
